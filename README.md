@@ -1,0 +1,2 @@
+# JournalingApp
+Personal journaling app
