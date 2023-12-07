@@ -1,2 +1,3 @@
 # JournalingApp
-Personal journaling app
+Personal journaling app 
+Hello world lorum ipsum
