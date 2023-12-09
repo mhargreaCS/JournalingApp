@@ -1,0 +1,33 @@
+﻿@page "/Calendar"
+
+<PageTitle>Calendar</PageTitle>
+
+<h1>Calendar</h1>
+
+<body>Hello World, let's make a calendar</body>
+<body>Figure out how to make a grid system or figure out a decent UI for calendar</body>
+
+@code {
+    class Month
+    {
+        private string month;
+        private int days;
+
+        int getDays { get { return days; } }
+        string getMonth { get { return month; } }
+
+        Month()
+        {
+            this.month = "January";
+            this.days = 31;
+        }
+        Month(string month, int days)
+        {
+            this.month = month;
+            this.days = days;
+        }
+
+
+    }
+
+}
