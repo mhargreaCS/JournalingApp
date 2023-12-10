@@ -1,6 +1,8 @@
 # JournalingApp
-Personal journaling app 
+
+Personal journaling app
 Hello world lorum ipsum
 
+## help me research
 
-#### help me research
+and the we can learn about Code Linting.
